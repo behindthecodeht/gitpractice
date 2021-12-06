@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body h1{
+    transform: translate(-50, 50);
+}
